@@ -6,7 +6,7 @@ gem 'rails', '4.1.8'
 # Use sqlite3 as the database for Active Record
 gem 'therubyracer'
 gem 'sqlite3', group: :development
-gem 'mysql2', group: :production
+gem 'mysql2',  group: :production
 gem 'carrierwave'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
